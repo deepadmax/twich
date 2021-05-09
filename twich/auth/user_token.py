@@ -3,7 +3,7 @@ import time
 
 from urllib.parse import urlparse, quote
 
-from .tempapp import AuthorizationApp
+from .authapp import AuthorizationApp
 
 from ..request import TwitchAPIRequest
 
